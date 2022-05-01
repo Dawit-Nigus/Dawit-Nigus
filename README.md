@@ -1,4 +1,4 @@
-![Dawit Nigus](https://raw.githubusercontent.com/Dawit Nigus/Dawit Nigus/img/istockphoto-1291971619-170667a.jpg)
+![Dawit Nigus](https://github.com/Dawit-Nigus/Dawit-Nigus/img/istockphoto-1291971619-170667a.jpg)
 ### Hi there 👋 , I'm Dave
 
 ## Here are some ideas to get you started:
