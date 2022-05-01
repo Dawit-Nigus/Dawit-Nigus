@@ -4,9 +4,8 @@
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with js and python
+- 💬 Ask me about anything
 
 ### Connect with me:
 
