@@ -25,5 +25,5 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/dawit_nigus1#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/dawit_nigus1#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/photo_2022-07-05_12-22-51.ico)](https://www.instagram.com/dawit_nigus1#gh-light-mode-only)
-[![website](./img/photo_2022-07-05_12-22-51.ico)](https://www.instagram.com/dawit_nigus1#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://dawit-nigus.github.io/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://dawit-nigus.github.io/#gh-dark-mode-only)
