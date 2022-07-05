@@ -28,5 +28,5 @@
 [![website](./img/globe-light.svg)](https://dawit-nigus.github.io/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://dawit-nigus.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/globe-light.svg)](https://dawitnigus-portfolio.herokuapp.com//#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://dawitnigus-portfolio.herokuapp.com//#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://dawitnigus-portfolio.herokuapp.com/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://dawitnigus-portfolio.herokuapp.com/#gh-dark-mode-only)
