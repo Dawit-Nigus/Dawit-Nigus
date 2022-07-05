@@ -24,3 +24,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/dawit_nigus1#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/dawit_nigus1#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/photo_2022-07-05_12-22-51.ico)](https://www.instagram.com/dawit_nigus1#gh-light-mode-only)
+[![website](./img/photo_2022-07-05_12-22-51.ico)](https://www.instagram.com/dawit_nigus1#gh-dark-mode-only)
