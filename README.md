@@ -5,7 +5,13 @@
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with js and python
+- 🤔 What I do
+    - Designing user interfaces and navigation menus
+    - Writing and reviewing code for sites, typically HTML, XML, or JavaScript
+    - Integrating multimedia content onto a site
+    - Testing web applications
+    - Troubleshooting problems with performance or user experience
+
 - 💬 Ask me about anything
 
 ### Connect with me:
