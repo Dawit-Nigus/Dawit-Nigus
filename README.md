@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 What I do
     - Designing user interfaces and navigation menus
-    - Writing and reviewing code for sites, typically HTML, XML, or JavaScript
+    - Writing and reviewing code for sites, typically HTML, CSS, or JavaScript
+    - I am learing Django, Django rest framework, Django with React
     - Integrating multimedia content onto a site
     - Testing web applications
     - Troubleshooting problems with performance or user experience
