@@ -8,7 +8,7 @@
 - 🤔 What I do
     - Designing user interfaces and navigation menus
     - Writing and reviewing code for sites, typically HTML, CSS, or JavaScript
-    - I am learing Django, Django rest framework, Django with React
+    - I am learning Django, Django rest framework, Django with React
     - Integrating multimedia content onto a site
     - Testing web applications
     - Troubleshooting problems with performance or user experience
