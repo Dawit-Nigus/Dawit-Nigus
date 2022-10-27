@@ -1,7 +1,18 @@
 ![Dawit Nigus](https://github.com/Dawit-Nigus/Dawit-Nigus/blob/main/img/istockphoto-1291971619-170667b.jpg)
 ### Hi there 👋 , I'm Dave
 # 💫 About Me:
-Here are some ideas to get you started:<br><br>    🔭 I’m currently a student<br><br>    🌱 I’m currently learning everything<br><br>    👯 I’m looking to collaborate with other content creators<br><br>    🤔 What I do<br>        Designing user interfaces and navigation menus<br>        Writing and reviewing code for sites, typically HTML, CSS, or JavaScript<br>        I am learning Django, Django rest framework, Django with React<br>        Integrating multimedia content onto a site<br>        Testing web applications<br>        Troubleshooting problems with performance or user experience<br><br>    💬 Ask me about anything<br>
+Here are some ideas to get you started: 
+🔭 I’m currently a student 
+🌱 I’m currently learning everything   
+👯 I’m looking to collaborate with other content creators   
+🤔 What I do      
+Designing user interfaces and navigation menus<br>        
+Writing and reviewing code for sites, typically HTML, CSS, or JavaScript     
+I am learning Django, Django rest framework, Django with React       
+Integrating multimedia content onto a site     
+Testing web applications      
+Troubleshooting problems with performance or user experience<br> 
+💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
