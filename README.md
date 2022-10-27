@@ -1,17 +1,17 @@
 ![Dawit Nigus](https://github.com/Dawit-Nigus/Dawit-Nigus/blob/main/img/istockphoto-1291971619-170667b.jpg)
 ### Hi there 👋 , I'm Dave
 # 💫 About Me:
-Here are some ideas to get you started: 
-🔭 I’m currently a student 
-🌱 I’m currently learning everything   
-👯 I’m looking to collaborate with other content creators   
-🤔 What I do      
-Designing user interfaces and navigation menus<br>        
-Writing and reviewing code for sites, typically HTML, CSS, or JavaScript     
-I am learning Django, Django rest framework, Django with React       
-Integrating multimedia content onto a site     
-Testing web applications      
-Troubleshooting problems with performance or user experience<br> 
+Here are some ideas to get you started: <br>
+🔭 I’m currently a student <br>
+🌱 I’m currently learning everything   <br>
+👯 I’m looking to collaborate with other content creators   <br>
+🤔 What I do  <br>    
+- Designing user interfaces and navigation menus     
+- Writing and reviewing code for sites, typically HTML, CSS, or JavaScript     
+- I am learning Django, Django rest framework, Django with React       
+- Integrating multimedia content onto a site     
+- Testing web applications      
+- Troubleshooting problems with performance or user experience<br> 
 💬 Ask me about anything<br>
 
 
@@ -26,7 +26,7 @@ Troubleshooting problems with performance or user experience<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawit-Nigus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://i.ytimg.com/vi/wpJILPJWo-o/maxresdefault.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dawit-Nigus&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
