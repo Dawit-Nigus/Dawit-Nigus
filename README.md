@@ -24,9 +24,6 @@ Here are some ideas to get you started: <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dawit-Nigus&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawit-Nigus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://dev-meme.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Dawit-Nigus&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
